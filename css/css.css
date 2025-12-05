@@ -1,0 +1,210 @@
+.barranav {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(70, 70, 70);
+    background-size: cover;
+}
+.ofertas {
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    margin-top: 64px;
+    gap: 64px;
+}
+.titulo {
+    color:rgb(211, 211, 211);
+    font-weight: bold;
+    font-size: 32px
+}
+.edicion {
+    color: rgb(214, 214, 214);
+}
+.porcentaje {
+    color:rgb(187, 0, 0);
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    border-radius: 12px;
+    margin: 25px;
+}
+.precionor {
+    color: rgb(100, 100, 100);
+    display: flex;
+    align-items: center;
+    text-decoration: line-through;
+     margin-right: 200px;
+}
+.preciodes {
+    color: rgb(241, 241, 241);
+}
+.lineaporcen {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    color:rgb(133, 0, 185);
+    font-weight: bold;
+    font-size: 32px;
+}
+.navegacion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 380px;
+}
+.portof1 {
+    background-image: url(../img/a1.png);
+    width: 341px;
+    height: 450px;
+    display: flex;
+    background-size: 100%;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.portof1:hover {
+    background-size: 120%;
+    background-position: -25PX -40px;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.portof2 {
+    background-image: url(../img/a2.png);
+    width: 341px;
+    height: 450px;
+    display: flex;
+    background-size: 100%;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.portof2:hover {
+    background-size: 120%;
+    background-position: -25PX -40px;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.portof3 {
+    background-image: url(../img/a3.png);
+    width: 341px;
+    height: 450px;
+    display: flex;
+    background-size: 100%;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.portof3:hover {
+    background-size: 120%;
+    background-position: -25PX -40px;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.portof4 {
+    background-image: url(../img/a4.png);
+    width: 341px;
+    height: 450px;
+    display: flex;
+    background-size: 100%;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.portof4:hover {
+    background-size: 120%;
+    background-position: -25PX -40px;
+    transition-duration: 300ms ;
+    margin: 32px ;
+    border-radius: 12px;
+}
+.cartel {
+    margin: 32px ;
+
+}
+.redes {
+    display: flex;
+    justify-content: center;
+    gap: 180px;
+    margin-top: 64px;
+}
+.rslogoig {
+    opacity: 60%;
+    width: 80px;
+    height: 80px;
+    transition-duration: 300ms ;
+}
+.rslogoig:hover {
+    opacity: 100%;
+    transition-duration: 300ms ;
+}
+.rslogox {
+    opacity: 60%;
+    width: 80px;
+    height: 80px;
+    transition-duration: 300ms ;
+}
+.rslogox:hover {
+    opacity: 100%;
+    transition-duration: 300ms ;
+}
+.rslogodis {
+    opacity: 60%;
+    width: 80px;
+    height: 80px;
+    transition-duration: 300ms ;
+}
+.rslogodis:hover {
+    opacity: 100%;
+    transition-duration: 300ms ;
+}
+.rslogoyt {
+    opacity: 60%;
+    width: 80px;
+    height: 80px;
+    transition-duration: 300ms ;
+}
+.rslogoyt:hover {
+    opacity: 100%;
+    transition-duration: 300ms ;
+}
+.rslogotwi {
+    opacity: 60%;
+    width: 80px;
+    height: 80px;
+    transition-duration: 300ms ;
+}
+.rslogotwi:hover {
+    opacity: 100%;
+    transition-duration: 300ms ;
+}
+.rslogofac {
+    opacity: 60%;
+    width: 80px;
+    height: 80px;
+    transition-duration: 300ms ;    
+}
+.rslogofac:hover {
+    opacity: 100%;
+    transition-duration: 300ms ;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+.rslogo {
+    width: 64px;
+}
+.backgame {
+    background-color: rgb(156, 156, 156);
+    border-radius: 24px;
+}
